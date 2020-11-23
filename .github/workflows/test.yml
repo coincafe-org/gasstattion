@@ -3,7 +3,7 @@ name: Check Gas Status
 on:
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   build:
